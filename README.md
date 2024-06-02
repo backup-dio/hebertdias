@@ -1,6 +1,6 @@
 ### Prazer, sou o Hebert! ✨
 
-##### Just a beginner listening to songs and learning Front-End. `:)`
+##### Just a beginner learning Front-End. `:)`
 
 - 📖 Currently I`m studying Analysis and System Development at <span color="red">UNIP</span> (1/5).
 
